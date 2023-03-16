@@ -2,6 +2,7 @@
 main(){
 	printf("Ahmed ROUITA");
 	printf("Ahmed ROUITA 2");
+	prinf("c'est 'Rim ");
 
 	
 }
